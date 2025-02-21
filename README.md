@@ -1,10 +1,8 @@
+# E2B Code Interpreter SDK in Vercel's Functions
+
 E2B Code Interpreter SDK that runs inside Vercel's Functions.
 
-## Getting Started
-
-First, run the development server:
-
-### 1.Get E2B API Key
+### 1. Get E2B API Key
 1. Get API key from the [dashboard](https://e2b.dev/dashboard)
 1. Create `.env.local` file in the root of the project and add the API key:
 
